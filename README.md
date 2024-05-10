@@ -1,14 +1,12 @@
 
 # 💸 Projeto: DIO - Trilha Java Básico 
-
-<p> a ideia deste projeto é criar um processo de criação de conta utilizando java. </p>
+ a ideia deste projeto é criar um processo de criação de conta utilizando java. 
  
-
 ## ☕ aprendizado
 - TODO: importação de class
-|tipo | nome |
-|--|--|
-|Class| Scanner|
+| tipo | nome |
+|---|---|
+| Class | Scanner|
 - Declaração de variáveis
 
 ## 📂 Documentação
