@@ -4,10 +4,13 @@
  
 ## ☕ aprendizado
 - TODO: importação de class
+- Declaração de variáveis
+  
+# 🛡 Importação
+
 | tipo | nome |
 |---|---|
 | Class | Scanner|
-- Declaração de variáveis
 
 ## 📂 Documentação
 | Variavel | função |
