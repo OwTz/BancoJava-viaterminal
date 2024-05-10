@@ -13,7 +13,7 @@
 | Class | Scanner|
 
 ## 📂 Documentação
-| Variavel | função |
+| Variavel | Função |
 |--|--|
 |agencia | guardar resultado String da agencia |
 | contaCliente | guarda informação String do nome do usuário| 
